@@ -1,0 +1,10 @@
+ORIGINAL = 0
+TOKEN = 1
+CONTEXT = 2
+
+OO = 0
+OT = 1
+TO = 2
+TT = 3
+TC = 4
+CT = 5
