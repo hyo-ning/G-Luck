@@ -1,8 +1,7 @@
 # Accurate Graph Classification via Contextualized Structural Tokens
 
 Anonymous code for **G-LUCK (Graph Classification via Contextualized Structural
-Tokens)**, accompanying the paper **Accurate Graph Classification via
-Contextualized Structural Tokens**.
+Tokens)**
 
 ---
 
